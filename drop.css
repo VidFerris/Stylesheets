@@ -1,0 +1,10 @@
+div[class^="SiteHeaderContainer"], div[class*=" SiteHeaderContainer"],
+div[class*="Spacer"]{
+    display: none
+}
+
+
+.shop_card{
+    width: 16.6% !important;
+}
+

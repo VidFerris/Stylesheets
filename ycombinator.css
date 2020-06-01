@@ -1,0 +1,17 @@
+@font-face {
+  font-family: numsOnly;
+  src: local("Verdana");
+  unicode-range: U+30-39;
+}
+@font-face {
+  font-family: numsOnly;
+  src: local("Adobe Blank");
+  unicode-range: U+0-2f, U+40-10FFFF;
+}
+
+.score{
+    font-weight: bold;
+    font-size: 8pt;
+    color: black;
+    font-family: numsOnly;
+}

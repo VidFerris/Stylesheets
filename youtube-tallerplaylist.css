@@ -1,0 +1,19 @@
+
+
+/* Increase height of playlist. */
+
+
+/* Element | https://www.youtube.com/watch?v=6IjFfl-8Gu8&list=TLPQMjgwNTIwMjCtjRpN1kMbdQ&index=1 */
+
+ytd-watch-flexy.style-scope {
+  /* --ytd-watch-flexy-panel-max-height: 502px; */
+  --ytd-watch-flexy-panel-max-height: 800px !important;
+}
+
+/* Inline #12 | https://www.youtube.com/watch?v=6IjFfl-8Gu8&list=TLPQMjgwNTIwMjCtjRpN1kMbdQ&index=1 */
+
+ytd-playlist-panel-renderer[collapsible] .header.ytd-playlist-panel-renderer {
+  /* padding: 12px 16px 0; */
+  padding: 0px !important;
+}
+

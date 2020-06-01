@@ -1,0 +1,20 @@
+#masthead, #footer, #secondary {
+    display: none;
+}
+
+.content-area {
+    width: 100%;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blog article {
+    width: 25%;
+}
+
+#content{
+    width: 100%;
+}

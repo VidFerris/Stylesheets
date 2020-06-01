@@ -1,0 +1,29 @@
+#footer, #visitor-notice, img.gravatar, div.comp-actions, .expired {
+    display:none !important;
+}
+
+div.node-teaser{
+    padding: 0 !important;
+}
+
+div.foxshot-container a {
+    height: 80px !important;
+}
+
+div.submitted span.via {
+    font-size: 150%;
+}
+
+ul.competition-list-meta{
+    display: flex;
+	list-style: none;
+}
+
+div.submitted {
+    text-align: right !important;
+    font-size: 0px;
+}
+
+div.submitted span.via {
+    font-size: 20px;
+}

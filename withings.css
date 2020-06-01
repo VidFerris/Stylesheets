@@ -1,0 +1,52 @@
+li{
+    display: none;
+}
+li:first-of-type {
+  display: inherit;
+}
+
+.graph-list {
+    margin-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+html{
+    overflow: hidden !important;
+}
+
+.graph-list ul li .chart {
+    background-color: #111 !important;
+}
+
+.graph-list ul li .chart .svg-container .svg .line.light {
+    stroke: #567a86 !important;
+}
+
+body #floatingbar ul .item {
+    background: #b4aed3 !important;
+}
+
+body #floatingbar ul .item.active {
+    background: #9fc0d0 !important;
+}
+
+body #floatingbar ul .item {
+    border-left: 1px solid #000 !important;
+    border-right: 1px solid #000 !important;
+}
+
+.graph-navigation {
+    background-color: #0a2d3e !important;
+}
+
+.addbutton, div#weight-header, div.chart-header, .yAxis{
+    display: none !important;
+}
+
+.graph-navigation {
+    top: 0px !important;
+}
+
+body #wrapper {
+    padding-top: 0px !important;
+}
