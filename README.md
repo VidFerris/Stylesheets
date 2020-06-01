@@ -4,4 +4,4 @@ A collection of CSS and JS injections I use to customise various web apps, with 
 
 ![](Images/discord.png?raw=true)
 ![](Images/drop.png?raw=true)
-![](Images/fb.png?raw=true)
+![](Images/facebook.png?raw=true)
